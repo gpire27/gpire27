@@ -21,7 +21,7 @@ I'm currently an application development student at HELMo, where I've had the op
 * Started on: 07/2023
 * Completed on: 08/2023
 
-## [eWins](https://www.google.com/404/) 🃏
+## [eWins](https://www.google.com/404/) 🏆
 ![eWins Logo](http://192.168.128.13/~e200580/EVAL_V5/images/eWins_transparent.svg)
 * Creation of an online platform enabling users to register for sports tournaments and competitions in order to bring together passionate players, promote the competitive spirit, and facilitate the organization of sporting events. The technologies used are HTML 5, CSS 3, PHP, and SQL.
 * Started on: July 29, 2023
